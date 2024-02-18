@@ -1,3 +1,11 @@
+**PowerAudio fork of tap-lv2**
+
+This fork of tap-lv2 has the following changes:
+
+* SSE flags are used only on x86, fixing compilation for other architectures.
+
+---
+
 tap-lv2
 =======
 
